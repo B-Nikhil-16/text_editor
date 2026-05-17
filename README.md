@@ -81,6 +81,3 @@ Possible future features:
 - Font customization
 - Auto-save functionality
 
-## Disclaimer
-
-This project is created for educational and learning purposes.
